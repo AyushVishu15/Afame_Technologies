@@ -1,4 +1,4 @@
-# G:\Afame Technologies\src\run_all.py
+
 import os
 
 print("Running preprocessing...")
