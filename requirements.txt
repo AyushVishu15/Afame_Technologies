@@ -1,4 +1,4 @@
-# G:\Afame Technologies\requirements.txt
+
 pandas>=2.2.3
 numpy>=2.2.4
 scikit-learn>=1.6.1
