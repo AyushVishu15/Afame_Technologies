@@ -1,4 +1,4 @@
-# G:\Afame Technologies\check_columns.py
+
 import pandas as pd
 
 def read_csv_with_encoding(file_path):
