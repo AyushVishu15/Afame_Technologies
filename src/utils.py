@@ -1,4 +1,4 @@
-# G:\Afame Technologies\src\utils.py
+
 import os
 import matplotlib.pyplot as plt
 
