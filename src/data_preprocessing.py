@@ -1,4 +1,4 @@
-# G:\Afame Technologies\src\data_preprocessing.py
+
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
