@@ -1,6 +1,6 @@
 # Movie Rating Prediction
 
-This repository contains the **Movie Rating Prediction** project completed for the Data Science Internship at **Afame Technologies**. The project builds a machine learning model to predict movie ratings based on features like genre, director, and actors using an IMDb dataset of Indian movies.
+A machine learning application to predict movie ratings based on features like genre, director, and actors using an IMDb dataset of Indian movies. 
 
 ## Project Overview
 - **Objective**: Develop a regression model to predict movie ratings using features such as genre, director, and actors.
@@ -13,8 +13,8 @@ This repository contains the **Movie Rating Prediction** project completed for t
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AyushVishu15/Afame_Technologies.git
-   cd Afame_Technologies
+   git clone https://github.com/AyushVishu15/Movie_Rating_Predictor.git
+   cd Movie_Rating_Predictor
 
 2. Create and activate a virtual environment:
    ```bash
